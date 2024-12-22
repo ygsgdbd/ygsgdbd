@@ -1,81 +1,35 @@
-# 👋 你好，我是 YGSGDBD
-
-## 🛠 精品项目
-
-| 项目 | 简介 | 技术栈 | 状态 |
-|------|------|--------|------|
-| [TypeSwitch](https://github.com/ygsgdbd/TypeSwitch) | 自动切换不同应用输入法的 macOS 应用 ⌨️ | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![AppKit](https://img.shields.io/badge/-AppKit-000000?style=flat-square&logo=apple&logoColor=white) | ![Stars](https://img.shields.io/github/stars/ygsgdbd/TypeSwitch?style=flat-square) ![Status](https://img.shields.io/badge/-Active-success?style=flat-square) |
-| [DanceKunKun](https://github.com/ygsgdbd/DanceKunKun) | 一个有趣的 macOS 菜单栏应用，会随着 CPU 使用率跳舞的坤坤！🕺 | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white) | ![Stars](https://img.shields.io/github/stars/ygsgdbd/DanceKunKun?style=flat-square) ![Status](https://img.shields.io/badge/-Active-success?style=flat-square) |
-| [V2Bar](https://github.com/ygsgdbd/V2Bar) | 简洁优雅的 macOS 菜单栏应用，提供快捷的 V2EX 访问体验 🚀 | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white) | ![Stars](https://img.shields.io/github/stars/ygsgdbd/V2Bar?style=flat-square) ![Status](https://img.shields.io/badge/-Active-success?style=flat-square) |
-| [VastWords](https://github.com/ygsgdbd/VastWords) | macOS 词汇学习应用，支持剪贴板监控和系统词典集成 📚 | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![AppKit](https://img.shields.io/badge/-AppKit-000000?style=flat-square&logo=apple&logoColor=white) | ![Stars](https://img.shields.io/github/stars/ygsgdbd/VastWords?style=flat-square) ![Status](https://img.shields.io/badge/-Active-success?style=flat-square) |
-
-## 🛠️ 技术栈
+# <div align="center">👋 Hello</div>
 
 <div align="center">
-  <!-- Apple 平台开发 -->
-  <img src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white" />
-  <img src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white" />
+  <b>I'm YGSGDBD, a macOS/iOS developer and Web3 explorer.</b>
+</div>
+
+## 🚀️ Tech Stack
+
+<div align="center">
   <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/-AppKit-000000?style=flat-square&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cocoa-000000?style=flat-square&logo=apple&logoColor=white" />
-  
-  <!-- Web3 技术 -->
   <img src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-  
-  <!-- 前端技术 -->
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  
-  <!-- 后端技术 -->
   <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  
-  <!-- 开发工具 -->
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
 </div>
 
-## 📊 GitHub 统计
+## 🚀 Projects
+
+| Project | Description | Tech Stack |
+|:-----|:-----|:-------|
+| [TypeSwitch](https://github.com/ygsgdbd/TypeSwitch) | A macOS app that automatically switches input methods for different applications ⌨️ | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![AppKit](https://img.shields.io/badge/-AppKit-000000?style=flat-square&logo=apple&logoColor=white) |
+| [DanceKunKun](https://github.com/ygsgdbd/DanceKunKun) | A fun macOS menu bar app featuring a dancing KunKun that grooves to your CPU usage! 🕺 | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white) |
+| [V2Bar](https://github.com/ygsgdbd/V2Bar) | A sleek and elegant macOS menu bar app for quick V2EX access 🚀 | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white) |
+| [VastWords](https://github.com/ygsgdbd/VastWords) | A macOS vocabulary app with clipboard monitoring and system dictionary integration 📚 | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![AppKit](https://img.shields.io/badge/-AppKit-000000?style=flat-square&logo=apple&logoColor=white) |
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ygsgdbd&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ygsgdbd&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygsgdbd&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ygsgdbd&theme=radical&no-frame=true&column=7" />
-</div>
-
-## 🏆 成就
-
-- 🌟 获得 82 个项目星标
-- 🔨 贡献了 233 次代码
-- 🤝 发起了 7 个拉取请求
-- 📚 创建了多个开源项目
-
-## 📫 联系我
-
-<div align="center">
-  <a href="https://github.com/ygsgdbd">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ygsgdbd&color=blue&style=flat-square" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ygsgdbd&show_icons=true&theme=vue&hide_border=true&count_private=true&title_color=3C9566&icon_color=3C9566&text_color=3C9566&bg_color=ffffff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ygsgdbd&theme=vue&hide_border=true&ring=3C9566&fire=3C9566&currStreakNum=3C9566&sideNums=3C9566&currStreakLabel=3C9566&sideLabels=3C9566&dates=3C9566&background=ffffff" />
 </div>
