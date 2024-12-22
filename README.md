@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat&logo=react-query&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat&logo=react-hook-form&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/-Zustand-443E38?style=flat&logo=react&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-Bun-000000?style=flat&logo=bun&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
