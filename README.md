@@ -54,24 +54,28 @@
 | [VastWords](https://github.com/ygsgdbd/VastWords) | [![macOS](https://img.shields.io/badge/-macOS-666666?style=flat&logo=apple&logoColor=white)](https://github.com/ygsgdbd/VastWords/releases/latest) | A macOS vocabulary app with clipboard monitoring and system dictionary integration. | ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white) | ![Stars](https://img.shields.io/github/stars/ygsgdbd/VastWords?style=flat) ![Release](https://img.shields.io/github/v/release/ygsgdbd/VastWords?style=flat) ![Last Commit](https://img.shields.io/github/last-commit/ygsgdbd/VastWords?style=flat) |
 | [jms-url](https://github.com/ygsgdbd/jms-url) | [![Web](https://img.shields.io/badge/-Web-666666?style=flat&logo=firefox&logoColor=white)](https://jmsurl.top) | A tool for tweaking JustMySocks subscription links. Visit at [jmsurl.top](https://jmsurl.top) | ![Next.js](https://img.shields.io/badge/-Next.js-FFFFFF?style=flat&logo=next.js&logoColor=black) | ![Stars](https://img.shields.io/github/stars/ygsgdbd/jms-url?style=flat) [![Website](https://img.shields.io/badge/-jmsurl.top-000000?style=flat)](https://jmsurl.top) ![Last Commit](https://img.shields.io/github/last-commit/ygsgdbd/jms-url?style=flat) |
 
-## 📊 GitHub Stats
+<details>
+<summary>📊 GitHub Stats</summary>
 
 <div align="center">
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; width: 100%; max-width: 1000px;">
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; width: 100%; max-width: 800px;">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ygsgdbd&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=contribs" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ygsgdbd&show_icons=true&theme=default&hide_border=true&count_private=true&hide=contribs" />
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ygsgdbd&show_icons=true&theme=default&hide_border=true&count_private=true&hide=contribs" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ygsgdbd&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=contribs&card_width=400" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ygsgdbd&show_icons=true&theme=default&hide_border=true&count_private=true&hide=contribs&card_width=400" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ygsgdbd&show_icons=true&theme=default&hide_border=true&count_private=true&hide=contribs&card_width=400" />
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ygsgdbd&theme=dark&hide_border=true&card_width=400" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ygsgdbd&theme=default&hide_border=true&card_width=400" />
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ygsgdbd&theme=default&hide_border=true&card_width=400" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ygsgdbd&layout=compact&theme=dark&hide_border=true&card_width=400" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ygsgdbd&layout=compact&theme=default&hide_border=true&card_width=400" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygsgdbd&layout=compact&theme=default&hide_border=true&card_width=400" />
     </picture>
   </div>
+  <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ygsgdbd&layout=compact&theme=dark&hide_border=true&card_width=800&title_color=adbac7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ygsgdbd&layout=compact&theme=default&hide_border=true&card_width=800" />
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygsgdbd&layout=compact&theme=default&hide_border=true&card_width=800" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ygsgdbd&theme=onestar&no-frame=true&column=6&row=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ygsgdbd&theme=flat&no-frame=true&column=6&row=1" />
+    <img width="80%" src="https://github-profile-trophy.vercel.app/?username=ygsgdbd&theme=flat&no-frame=true&column=6&row=1" />
   </picture>
 </div>
+
+</details>
