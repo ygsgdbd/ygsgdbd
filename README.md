@@ -2,45 +2,49 @@
 
 <p align="center">
   <samp>
-    I'm <b>YGSGDBD</b>, a macOS/iOS developer and Web3 explorer.
+    I'm <b>YGSGDBD</b>, a passionate explorer and practitioner.<br/>
+    <em>"There are no failures, only feedback."</em>
   </samp>
 </p>
 
-## 🚀️ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
-  <h4>Apple Platform</h4>
-  <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white" />&nbsp;
+  <h4>Apple Development</h4>
   <img src="https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-UIKit-2396F3?style=flat&logo=swift&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-iOS-666666?style=flat&logo=apple&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/-macOS-666666?style=flat&logo=apple&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-iOS-666666?style=flat&logo=apple&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-UIKit-2396F3?style=flat&logo=swift&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/-Combine-FA7343?style=flat&logo=swift&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-RxSwift-B7178C?style=flat&logo=reactivex&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RxSwift-B7178C?style=flat&logo=reactivex&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=white" />
   
   <h4>Frontend Development</h4>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-Next.js-FFFFFF?style=flat&logo=next.js&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat&logo=react-query&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat&logo=react-hook-form&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-Zustand-443E38?style=flat&logo=react&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-Next.js-FFFFFF?style=flat&logo=next.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 
   <h4>Backend Development</h4>
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-Hono-E36002?style=flat&logo=fastify&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hono-E36002?style=flat&logo=fastify&logoColor=white" />
 
   <h4>Plugin Development</h4>
-  <img src="https://img.shields.io/badge/-Obsidian-4C3AC5?style=flat&logo=obsidian&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-Obsidian-4C3AC5?style=flat&logo=obsidian&logoColor=white" />
 
   <h4>Web3 Development</h4>
-  <img src="https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-Web3.js-F16822?style=flat&logo=web3.js&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/-ethers.js-2535A0?style=flat&logo=ethereum&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-Web3.js-F16822?style=flat&logo=web3.js&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/-OpenZeppelin-4E5EE4?style=flat&logo=OpenZeppelin&logoColor=white" />
 </div>
 
