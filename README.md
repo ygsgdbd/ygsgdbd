@@ -52,18 +52,26 @@
 | [DanceKunKun](https://github.com/ygsgdbd/DanceKunKun) | ![macOS](https://img.shields.io/badge/-macOS-666666?style=flat&logo=apple&logoColor=white) | A fun macOS menu bar app featuring a dancing KunKun that grooves to your CPU usage! | ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white) | ![Stars](https://img.shields.io/github/stars/ygsgdbd/DanceKunKun?style=flat) ![Release](https://img.shields.io/github/v/release/ygsgdbd/DanceKunKun?style=flat) ![Last Commit](https://img.shields.io/github/last-commit/ygsgdbd/DanceKunKun?style=flat) |
 | [V2Bar](https://github.com/ygsgdbd/V2Bar) | ![macOS](https://img.shields.io/badge/-macOS-666666?style=flat&logo=apple&logoColor=white) | A sleek and elegant macOS menu bar app for quick V2EX access. | ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white) | ![Stars](https://img.shields.io/github/stars/ygsgdbd/V2Bar?style=flat) ![Release](https://img.shields.io/github/v/release/ygsgdbd/V2Bar?style=flat) ![Last Commit](https://img.shields.io/github/last-commit/ygsgdbd/V2Bar?style=flat) |
 | [VastWords](https://github.com/ygsgdbd/VastWords) | ![macOS](https://img.shields.io/badge/-macOS-666666?style=flat&logo=apple&logoColor=white) | A macOS vocabulary app with clipboard monitoring and system dictionary integration. | ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white) | ![Stars](https://img.shields.io/github/stars/ygsgdbd/VastWords?style=flat) ![Release](https://img.shields.io/github/v/release/ygsgdbd/VastWords?style=flat) ![Last Commit](https://img.shields.io/github/last-commit/ygsgdbd/VastWords?style=flat) |
-| [jms-url](https://github.com/ygsgdbd/jms-url) | ![Web](https://img.shields.io/badge/-Web-666666?style=flat&logo=firefox&logoColor=white) | A tool for tweaking JustMySocks subscription links. Visit at [jmsurl.top](https://jmsurl.top) | ![Next.js](https://img.shields.io/badge/-Next.js-FFFFFF?style=flat&logo=next.js&logoColor=black) | ![Stars](https://img.shields.io/github/stars/ygsgdbd/jms-url?style=flat) ![Website](https://img.shields.io/badge/-jmsurl.top-000000?style=flat) ![Last Commit](https://img.shields.io/github/last-commit/ygsgdbd/jms-url?style=flat) |
+| [jms-url](https://github.com/ygsgdbd/jms-url) | ![Web](https://img.shields.io/badge/-Web-666666?style=flat&logo=firefox&logoColor=white) | A tool for tweaking JustMySocks subscription links. Visit at [jmsurl.top](https://jmsurl.top) | ![Next.js](https://img.shields.io/badge/-Next.js-FFFFFF?style=flat&logo=next.js&logoColor=black) | ![Stars](https://img.shields.io/github/stars/ygsgdbd/jms-url?style=flat) [![Website](https://img.shields.io/badge/-jmsurl.top-000000?style=flat)](https://jmsurl.top) ![Last Commit](https://img.shields.io/github/last-commit/ygsgdbd/jms-url?style=flat) |
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ygsgdbd&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  </picture>
-  <picture>
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ygsgdbd&theme=default&hide_border=true" />
-  </picture>
-  <picture>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygsgdbd&layout=compact&hide_border=true&theme=default" />
-  </picture>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 1rem; width: 100%; max-width: 1200px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ygsgdbd&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ygsgdbd&show_icons=true&theme=default&hide_border=true&count_private=true" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ygsgdbd&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ygsgdbd&theme=dark&hide_border=true&card_width=500" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ygsgdbd&theme=default&hide_border=true&card_width=500" />
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ygsgdbd&theme=default&hide_border=true&card_width=500" />
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ygsgdbd&layout=compact&theme=dark&hide_border=true&card_width=450&title_color=adbac7" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ygsgdbd&layout=compact&theme=default&hide_border=true&card_width=450" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygsgdbd&layout=compact&theme=default&hide_border=true&card_width=450" />
+    </picture>
+  </div>
 </div>
