@@ -2,37 +2,12 @@
 
 ## 🛠 精品项目
 
-<div align="center">
-  <a href="https://github.com/ygsgdbd/TypeSwitch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ygsgdbd&repo=TypeSwitch&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/ygsgdbd/DanceKunKun">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ygsgdbd&repo=DanceKunKun&theme=radical&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ygsgdbd/V2Bar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ygsgdbd&repo=V2Bar&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/ygsgdbd/VastWords">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ygsgdbd&repo=VastWords&theme=radical&hide_border=true" />
-  </a>
-</div>
-
-### 🖥️ macOS 应用
-
-- **[TypeSwitch](https://github.com/ygsgdbd/TypeSwitch)** - 自动切换不同应用输入法的 macOS 应用 ⌨️ 
-  ![Stars](https://img.shields.io/github/stars/ygsgdbd/TypeSwitch?style=flat-square)
-
-- **[DanceKunKun](https://github.com/ygsgdbd/DanceKunKun)** - 一个有趣的 macOS 菜单栏应用，会随着 CPU 使用率跳舞的坤坤！🕺
-  ![Stars](https://img.shields.io/github/stars/ygsgdbd/DanceKunKun?style=flat-square)
-
-- **[V2Bar](https://github.com/ygsgdbd/V2Bar)** - 简洁优雅的 macOS 菜单栏应用，提供快捷的 V2EX 访问体验 🚀
-  ![Stars](https://img.shields.io/github/stars/ygsgdbd/V2Bar?style=flat-square)
-
-- **[VastWords](https://github.com/ygsgdbd/VastWords)** - macOS 词汇学习应用，支持剪贴板监控和系统词典集成 📚
-  ![Stars](https://img.shields.io/github/stars/ygsgdbd/VastWords?style=flat-square)
+| 项目 | 简介 | 技术栈 | 状态 |
+|------|------|--------|------|
+| [TypeSwitch](https://github.com/ygsgdbd/TypeSwitch) | 自动切换不同应用输入法的 macOS 应用 ⌨️ | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![AppKit](https://img.shields.io/badge/-AppKit-000000?style=flat-square&logo=apple&logoColor=white) | ![Stars](https://img.shields.io/github/stars/ygsgdbd/TypeSwitch?style=flat-square) ![Status](https://img.shields.io/badge/-Active-success?style=flat-square) |
+| [DanceKunKun](https://github.com/ygsgdbd/DanceKunKun) | 一个有趣的 macOS 菜单栏应用，会随着 CPU 使用率跳舞的坤坤！🕺 | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white) | ![Stars](https://img.shields.io/github/stars/ygsgdbd/DanceKunKun?style=flat-square) ![Status](https://img.shields.io/badge/-Active-success?style=flat-square) |
+| [V2Bar](https://github.com/ygsgdbd/V2Bar) | 简洁优雅的 macOS 菜单栏应用，提供快捷的 V2EX 访问体验 🚀 | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white) | ![Stars](https://img.shields.io/github/stars/ygsgdbd/V2Bar?style=flat-square) ![Status](https://img.shields.io/badge/-Active-success?style=flat-square) |
+| [VastWords](https://github.com/ygsgdbd/VastWords) | macOS 词汇学习应用，支持剪贴板监控和系统词典集成 📚 | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![AppKit](https://img.shields.io/badge/-AppKit-000000?style=flat-square&logo=apple&logoColor=white) | ![Stars](https://img.shields.io/github/stars/ygsgdbd/VastWords?style=flat-square) ![Status](https://img.shields.io/badge/-Active-success?style=flat-square) |
 
 ## 🛠️ 技术栈
 
