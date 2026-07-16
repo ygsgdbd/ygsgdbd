@@ -10,40 +10,15 @@
 ## ⚡ Tech Stack
 
 <div align="center">
-  <h4>Languages & Core</h4>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-Rust-B7410E?style=flat&logo=rust&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white" />
-
-  <h4>Frontend & Mobile</h4>
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/-Next.js-FFFFFF?style=flat&logo=next.js&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-UIKit-2396F3?style=flat&logo=swift&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-iOS-666666?style=flat&logo=apple&logoColor=white" />
-
-  <h4>Backend & Cloud</h4>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-Bun-FBF0DF?style=flat&logo=bun&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" />
-
-  <h4>Tools & Environment</h4>
-  <img src="https://img.shields.io/badge/-macOS-666666?style=flat&logo=apple&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-WebStorm-07C3F2?style=flat&logo=webstorm&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-PyCharm-21D789?style=flat&logo=pycharm&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=vscode&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-Chrome-4285F4?style=flat&logo=google-chrome&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-Obsidian-4C3AC5?style=flat&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-Chrome%20Extension-4285F4?style=flat&logo=googlechrome&logoColor=white" />
 </div>
 
 ## 🚀 Projects
